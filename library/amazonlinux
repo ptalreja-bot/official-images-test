@@ -25,9 +25,9 @@ amd64-GitCommit: 696b45f5737f815d41d6490763cceb850cb4f09a
 arm64v8-GitFetch: refs/heads/amzn2-arm64
 arm64v8-GitCommit: c49d2870fdadc94089441a3703d88eff9480ccfa
 
-Tags: 2027, 2027.0.20261004.0
+Tags: 2027, 2027.0.20261006.0
 Architectures: amd64, arm64v8
 amd64-GitFetch: refs/heads/al2027
-amd64-GitCommit: 5790251f4f0b05b4a9f8a021cb21bcbd76b105e0
+amd64-GitCommit: 0b849842becd6f9ccdecfad4495b67e1277f0b6a
 arm64v8-GitFetch: refs/heads/al2027-arm64
-arm64v8-GitCommit: 1d1f2935b26bf6b02614b1a1979ce924be3f7549
+arm64v8-GitCommit: 5980f1cc79a1193db7df6c8428c61bef4fc49855
